@@ -1,10 +1,10 @@
 # 🛍️  Análisis de Rendimiento  - Challenge Alura LATAM
 
----
-
 ## 📊 Descripción del Proyecto
 
 Durante este desafío, ayudamos al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizamos datos de ventas, rendimiento, calificaciones, y costos de envío de las 4 tiendas. El objetivo fue identificar la tienda menos eficiente y presentar una recomendación final basada en datos.
+
+
 ---
 
 ## 🧪 Tecnologías Utilizadas
@@ -70,11 +70,17 @@ Aunque Tienda4 tiene el menor ingreso total, también:
 - Mantiene altas ventas en categorías clave como Muebles, Juguetes y Electrónicos.
 📌 Esto indica que la Tienda4 es eficiente y con buena reputación, pero puede estar limitada por ubicación, tamaño u oferta.
 
-💡 Recomendación Final: El Sr. Juan debería vender la Tienda4, capitalizando su buen rendimiento operativo y reputación, y comenzar su nuevo emprendimiento con esos recursos.
+💡 Recomendación Final: 
+
+  El Sr. Juan debería vender la Tienda4, capitalizando su buen rendimiento operativo y reputación, y comenzar su nuevo emprendimiento con esos recursos.
+
+
 ---
 
 ## 📬 Contacto
 
+
 Creado por [Yhomira Alexandra Yupayccana Lopa](https://www.linkedin.com/in/yhomirayupayccana/)  
 📧 141013@unsaac.edu.pe
+
 ---
